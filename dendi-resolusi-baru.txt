@@ -4,3 +4,7 @@ Dendi Resolusi Baru
 - Paham Javascript
   * ES6
   * DOM
+- Paham Framwork JS
+ * Next JS
+ * React JS
+- Paham UI JavaScript
