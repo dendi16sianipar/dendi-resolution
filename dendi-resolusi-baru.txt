@@ -1,3 +1,4 @@
 Dendi Resolusi Baru
 - Punya Hp baru
-- Punya laptop baru
+- Paham Tailwind CSS
+- Paham Javascript
