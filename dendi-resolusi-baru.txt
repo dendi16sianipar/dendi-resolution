@@ -7,3 +7,4 @@ Dendi Resolusi Baru
 - Paham Framwork JS
  * Next JS
  * React JS
+- Paham UI JavaScript
