@@ -1,6 +1,6 @@
 Dendi Resolusi Baru
-- Punya Hp baru
 - Paham Tailwind CSS
 - Paham Javascript
   * ES6
   * DOM
+- Paham Golang dan Phyton
