@@ -2,5 +2,6 @@ Dendi Resolution
   1 Konsisten belajar programer beberapa bulan ke depan
   2 Menjadi seorang frontend developer
   3 Bekerja di sebuah perusahaan yang baik
-  4 Bekerja secara remote
-  5 Memiliki gaji stabil
+  4 Memiliki gaji stabil
+  5 Sudah bekerja wfh
+  6 Pulang kampung
